@@ -12,8 +12,8 @@
 ```yaml
 Name: AmirReza Rashidi
 Role: Computer Engineering Student
-Specialization: Cybersecurity | Java & C++ Developer
-Location: Iran 🇮🇷
+Specialization: Cybersecurity | Java & C++ learner !
+Location: IRAN 
 Goal: Build secure, impactful software and become a recognized name in cybersecurity
 ```
 
@@ -32,17 +32,9 @@ Goal: Build secure, impactful software and become a recognized name in cybersecu
 | `C++`    | Qt, CLI development | System-level tools |
 | `Linux`  | Bash, networking    | Pentesting & scripting |
 | `Git`    | GitHub              | Open-source projects |
-| `Python` | (Learning)          | For scripting & hacking tools |
+| `Python` | (will Learning)          | For scripting & hacking tools |
 
 ---
-
-### 🔐 Focus: Cybersecurity & Ethical Hacking
-
-I'm diving deep into:
-- 🕵️ Network fundamentals (studying CompTIA Network+)
-- 🧪 Penetration testing basics
-- 🔧 Building personal tools for analysis and automation
-- 📖 Reading "Linux Basics for Hackers"
 
 > I believe in learning by building and breaking (ethically, of course 😉)
 
