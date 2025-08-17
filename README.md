@@ -36,7 +36,7 @@ Goal: Build secure, impactful software and become a recognized name in cybersecu
 
 ---
 
-> I believe in learning by building and breaking (ethically, of course 😉)
+> I believe in learning by building and breaking (ethically, of course ! 😉)
 
 ---
 
