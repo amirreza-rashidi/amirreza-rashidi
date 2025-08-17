@@ -19,7 +19,7 @@ Goal: Build secure, impactful software and become a recognized name in cybersecu
 
 - 🔐 Passionate about ethical hacking and system security  
 - 💡 Always building something fun: desktop apps, bots, automation tools  
-- 🧠 Enjoy learning deep tech from the ground up  
+- ✅ Enjoy learning deep tech from the ground up  
 - 🌍 Love open-source, collaboration, and tech for good
 
 ---
