@@ -30,8 +30,7 @@ Goal: Build secure, impactful software and become a recognized name in cybersecu
 |----------|--------------------|-------------|
 | `Java`   | Swing, JavaFX       | GUI tools, automation apps |
 | `C++`    | Qt, CLI development | System-level tools |
-| `Linux`  | Bash, networking    | Pentesting & scripting |
-| `Git`    | GitHub              | Open-source projects |
+| `Linux`  | Bash, networking    | Pentesting & scripting |              
 | `Python` | (will Learning)          | For scripting & hacking tools |
 
 ---
