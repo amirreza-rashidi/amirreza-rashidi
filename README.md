@@ -12,7 +12,7 @@
 ```yaml
 Name: AmirReza Rashidi
 Role: Computer Engineering Student
-Specialization: Cybersecurity | Java & C++ learner !
+Specialization: Cybersecurity | Java & C++ & security learner !
 Location: IRAN 
 Goal: Build secure, impactful software and become a recognized name in cybersecurity and ethical hacking 
 ```
