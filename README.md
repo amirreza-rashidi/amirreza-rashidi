@@ -14,7 +14,7 @@ Name: AmirReza Rashidi
 Role: Computer Engineering Student
 Specialization: Cybersecurity | Java & C++ learner !
 Location: IRAN 
-Goal: Build secure, impactful software and become a recognized name in cybersecurity
+Goal: Build secure, impactful software and become a recognized name in cybersecurity and ethical hacking 
 ```
 
 - 🔐 Passionate about ethical hacking and system security  
